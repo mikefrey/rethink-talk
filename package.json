@@ -1,0 +1,14 @@
+{
+  "name": "rethink-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "one": "node realtime.js"
+  },
+  "author": "Mike Frey",
+  "license": "MIT",
+  "dependencies": {
+    "rethinkdb": "^2.3.1"
+  }
+}
